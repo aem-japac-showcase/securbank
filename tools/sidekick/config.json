@@ -1,7 +1,7 @@
 
 {
-  "project": "SecurBank",
+  "project": "SecurBank JAPAC",
   "editUrlLabel": "AEM Editor",
-  "host": "www.securbankdemo.com",
+  "host": "japac.securbankdemo.com",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
 }
